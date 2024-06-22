@@ -25,3 +25,5 @@ Diante disso, você deve desenvolver um projeto java, com os seguintes requisito
 3.10 – Imprimir a lista de funcionários por ordem alfabética.
 3.11 – Imprimir o total dos salários dos funcionários.
 3.12 – Imprimir quantos salários mínimos ganha cada funcionário, considerando que o salário mínimo é R$1212.00.
+
+![imagem de planilha com os dados para resolução do desafio](https://github.com/DuxAlex/iniflex-teste/blob/main/custom-test-102943-question-eee278f5-a195-4265-956e-dcfcef31bafb.png)
